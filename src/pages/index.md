@@ -47,7 +47,15 @@ sections:
           recruits.
   - type: promotion_section
     section_id: promotion_section
-    title: "WELCOMEFor over half a century, Hollandale Landscaping & Garden Centre Ltd. has been helping us create those private spaces.\_Hollandale's professional staff of landscape design and construction personnel work with clients to build unique gardens that compliment their home and business environment.Whether it's offering advice and helping with plant selection for the do-it-yourselfers at Hollandale's Garden Centre or drafting and executing full-scale landscape projects, Hollandale is the natural choice."
+    title: >-
+      WELCOME For over half a century, Hollandale Landscaping & Garden Centre
+      Ltd. has been helping us create those private spaces.   Hollandale's
+      professional staff of landscape design and construction personnel work
+      with clients to build unique gardens that compliment their home and
+      business environment.  Whether it's offering advice and helping with plant
+      selection for the do-it-yourselfers at Hollandale's Garden Centre or
+      drafting and executing full-scale landscape projects, Hollandale is the
+      natural choice.
     subtitle: from $149.99
     image: images/promo.jpg
     background_image: images/leaf.svg
