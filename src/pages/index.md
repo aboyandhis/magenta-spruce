@@ -7,9 +7,7 @@ sections:
     background_image: images/header.jpg
     background_image_opacity: 65
     content: |
-      hollandale Landacaping and Garden
-
-       
+      ## Hollandale Landscaping and Garden
     actions:
       - title: See all items
         url: /store
